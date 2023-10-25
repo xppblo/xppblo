@@ -3,11 +3,11 @@
 
 ![Beige   Black Geometric Technology LinkedIn Banner](https://github.com/xppblo/xppblo/assets/85145711/02d962d9-46c8-494b-9c7c-0f288d30b791)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning: **Python**
 
-- 📫 How to reach me **ppblo.hernandez@gmail.com**
+- 📫 How to reach me: **ppblo.hernandez@gmail.com**
 
-- 📄 Know about my experiences [LinkedIn](www.linkedin.com/in/pablo-hernandez-leiva)
+- 📄 Know about my experiences: [LinkedIn](www.linkedin.com/in/pablo-hernandez-leiva)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
