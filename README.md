@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pablo Hernández Leiva</h1>
 <h3 align="center">Ingeniero Informática de Chile</h3>
-[Beige   Black Geometric Technology LinkedIn Banner](https://github.com/xppblo/xppblo/assets/85145711/02d962d9-46c8-494b-9c7c-0f288d30b791)
+![Beige   Black Geometric Technology LinkedIn Banner](https://github.com/xppblo/xppblo/assets/85145711/02d962d9-46c8-494b-9c7c-0f288d30b791)
 
 - 🌱 I’m currently learning **Python**
 
