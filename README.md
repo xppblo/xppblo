@@ -3,11 +3,14 @@
 
 ![Beige   Black Geometric Technology LinkedIn Banner](https://github.com/xppblo/xppblo/assets/85145711/02d962d9-46c8-494b-9c7c-0f288d30b791)
 
-- 🌱 I’m currently learning: **Python**
+- 💬 Acerca de mí: Soy Pablo ingeniero en informática de la Universidad Tecnológica de Chile INACAP, vivo en Santiago de Chile 
 
-- 📫 How to reach me: **ppblo.hernandez@gmail.com**
+- 🌱 Actualemnte estoy aprendiendo: **Me encuentro realizando un Bootcamp Full Stack en Python**
 
-- 📄 Know about my experiences: [LinkedIn](www.linkedin.com/in/pablo-hernandez-leiva)
+- 📫 Contactame: **ppblo.hernandez@gmail.com**
+
+- 📄 Sobre mi experiencia: [LinkedIn](www.linkedin.com/in/pablo-hernandez-leiva) <br></br>
+  Trabaje en Elipse Inteligencia Artificial realizando actividades en el desarrollo de proyectos con el asistente de IBM Watson Assistant, entrenando la inteligencia artificial y mejoras tanto en el Text to Speech y Speech to Text 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
