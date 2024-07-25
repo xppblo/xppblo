@@ -2,9 +2,9 @@
 
 ![Beige   Black Geometric Technology LinkedIn Banner](https://github.com/xppblo/xppblo/assets/85145711/02d962d9-46c8-494b-9c7c-0f288d30b791)
 
-- 💬 Acerca de mí: Soy Pablo ingeniero en informática de la Universidad Tecnológica de Chile INACAP, vivo en Santiago de Chile 
+- 💬 Acerca de mí: Soy Pablo, ingeniero en informática de la Universidad Tecnológica Metropolitana de Chile INACAP, vivo en Santiago de Chile 
 
-- 🌱 Actualemnte estoy aprendiendo: **Me encuentro realizando un Bootcamp Full Stack en Python**
+- 🌱 Actualemnte: **Me encuentro realizando un Bootcamp Full Stack en Python**
 
 - 📫 Contactame: **ppblo.hernandez@gmail.com**
 
