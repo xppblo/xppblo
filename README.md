@@ -4,7 +4,7 @@
 
 - 💬 Acerca de mí: Soy Pablo, ingeniero en informática de la Universidad Tecnológica Metropolitana de Chile INACAP, vivo en Santiago de Chile 
 
-- 🌱 Actualemnte: **Me encuentro realizando un Bootcamp Full Stack en Python**
+- 🌱 Actualemnte: **Me encuentro trabajando y buscando un nuevo conocimiento el que aprender y aplicar**
 
 - 📫 Contactame: **ppblo.hernandez@gmail.com**
 
