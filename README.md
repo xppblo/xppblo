@@ -8,8 +8,10 @@
 
 - 📫 Contactame: **ppblo.hernandez@gmail.com**
 
-- 📄 Sobre mi experiencia: [LinkedIn](www.linkedin.com/in/pablo-hernandez-leiva) <br></br>
-  Trabaje en Elipse Inteligencia Artificial realizando actividades en el desarrollo de proyectos con el asistente de IBM Watson Assistant, entrenando la inteligencia artificial y mejoras tanto en el Text to Speech y Speech to Text 
+- 📄 Sobre mi experiencia: [LinkedIn](https://www.linkedin.com/in/phernandezl) <br></br>
+  Trabaje en Elipse Inteligencia Artificial realizando actividades en el desarrollo de proyectos con el asistente de IBM Watson Assistant, entrenando la inteligencia artificial y mejoras tanto en el Text to Speech y Speech to Text
+
+  Actualmente me encuentro trabajando en Atlass Repuestos, implementando automatización de procesos y trabajando con integraciones en diferentes marketplace, monitoreo diario de actividades automatizadas y otros procesos 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
